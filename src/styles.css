@@ -1,0 +1,22 @@
+.container {
+  display: grid;
+}
+.row {
+  margin: 0;
+  font-size: 30px;
+  font-family: Helvetica;
+  text-align: center;
+  border: 0;
+}
+.col {
+  border: 1px black solid;
+
+  width: 60px;
+}
+
+.player1 {
+  background-color: rgb(124, 252, 0);
+}
+.player2 {
+  background-color: rgb(250, 128, 114);
+}
